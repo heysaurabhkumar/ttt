@@ -4,7 +4,9 @@ Assignment given by Terribly Tiny Tales.
 Deployed on Heroku - 
 URL: https://assignment-ttt.herokuapp.com/
 
-![Screenshot (158)](https://user-images.githubusercontent.com/42849052/112716845-cdccd780-8f0e-11eb-8954-a25e4c1240df.png)
+
+![Screenshot (159)](https://user-images.githubusercontent.com/42849052/112716909-2dc37e00-8f0f-11eb-8024-410892c3877c.png)
+
 
 To run it on localhost-
 Download this repo and unzip it.
