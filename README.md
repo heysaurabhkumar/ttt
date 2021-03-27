@@ -1,7 +1,7 @@
 # ttt
 Assignment given by Terribly Tiny Tales.
 
-# Deployed on Heroku - 
+### Deployed on Heroku - 
 URL: https://assignment-ttt.herokuapp.com/
 
 
@@ -18,14 +18,14 @@ Then you will get two directory:
 Client is the frontend server\
 Server is the backend server
 
-# Steps to run backend server:\
+### Steps to run backend server:\
   Run the following commands.
     Step 1: Open server directory in terminal.\
     Step 2: npm install\
     Step 3: npm i nodemon\
     Step 4: nodemon app.js
 
-# Steps to run frontend server:\
+### Steps to run frontend server:\
   Run the following commands.\
     Step 1: Open client directory in terminal.\
     Step 2: npm install\
@@ -34,18 +34,18 @@ Server is the backend server
 Once both the servers are running successfully-\
     Go to chrome browser and open localhost:3000
 
-# NPM Modules used in nodejs:
+### NPM Modules used in nodejs:
 1. express
 2. body-parser
 3. axios
 4. path
 
-# NPM Modules used in reactjs:
+### NPM Modules used in reactjs:
 1. react
 2. react-dom
 3. materialize-css
 
-# My approach:
+### My approach:
 
 1. Input is taken from frontend and send it to the backend.
 2. Type of Input is String and comma seperated.
