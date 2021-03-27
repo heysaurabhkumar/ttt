@@ -15,23 +15,23 @@ Then you will get two directory:
   1. client
   2. server
 
-Client is the frontend server
-Server is the backend server
+Client is the frontend server\
+Server is the backend server\
 
-Steps to run backend server:
+Steps to run backend server:\
   Run the following commands.
-    Step 1: Open server directory in terminal.
-    Step 2: npm install
-    Step 3: npm i nodemon
-    Step 4: nodemon app.js
+    Step 1: Open server directory in terminal.\
+    Step 2: npm install\
+    Step 3: npm i nodemon\
+    Step 4: nodemon app.js\
 
-Steps to run frontend server:
-  Run the following commands.
-    Step 1: Open client directory in terminal.
-    Step 2: npm install
-    Step 3: npm start
+Steps to run frontend server:\
+  Run the following commands.\
+    Step 1: Open client directory in terminal.\
+    Step 2: npm install\
+    Step 3: npm start\
 
-Once both the servers are running successfully-
+Once both the servers are running successfully-\
     Go to chrome browser and open localhost:3000
 
 NPM Modules used in nodejs:
