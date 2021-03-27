@@ -18,14 +18,14 @@ Then you will get two directory:
 Client is the frontend server\
 Server is the backend server
 
-### Steps to run backend server:\
+### Steps to run backend server:
   Run the following commands.
     Step 1: Open server directory in terminal.\
     Step 2: npm install\
     Step 3: npm i nodemon\
     Step 4: nodemon app.js
 
-### Steps to run frontend server:\
+### Steps to run frontend server:
   Run the following commands.\
     Step 1: Open client directory in terminal.\
     Step 2: npm install\
