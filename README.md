@@ -61,23 +61,23 @@ Once both the servers are running successfully-\
 Input: 5,6,9,12,18,20,25,30,32,36,37,38,40,42,45,47,49,50
 Output: 
 
-5	Pass
-6	Fail
-9	Fail
-12	Fail
-18	Fail
-20	Pass
-25	Pass
-30	Fail
-32	Pass
-36	Fail
-37	Pass
-38	Pass
-40	Pass
-42	Fail
-45	Fail
-47	Pass
-49	Pass
+5	Pass \
+6	Fail \
+9	Fail \
+12	Fail \
+18	Fail \
+20	Pass \
+25	Pass \
+30	Fail \
+32	Pass \
+36	Fail \
+37	Pass \
+38	Pass \
+40	Pass \
+42	Fail \
+45	Fail \
+47	Pass \
+49	Pass \
 50	Pass
 
 Screenshots are added in the test cases directory.
